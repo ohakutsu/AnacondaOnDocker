@@ -32,5 +32,3 @@ jupyter-notebook --port 8000 --ip=0.0.0.0 --allow-root
 ```
 http://127.0.0.1:8000/?token=41a26248c5239af92a8........94f8126017c55b9504476
 ```
-
-docker run -it -d --name workspace1 -v /Users/takuyahanada/zhang/zhangLabDocker:/work -p 8000:8000 workspace
