@@ -1,4 +1,4 @@
-# 研究室の共用パソコン用のAnaconda環境
+# Anaconda on Docker
 https://github.com/ohakutsu/AnacondaOnDocker
 
 ## 使い方
